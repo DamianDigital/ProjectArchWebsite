@@ -16,7 +16,7 @@ Main purpose of this project is find out how to do responsive webside using Boot
 Project is: finished. 
 
 ## Inspiration
-Project inspired by K. Kargol, based on on-line front-end course.
+Project inspired by on-line front-end course. 
 
 ## Contact
 Created by (@damian_digital) - feel free to contact me!
